@@ -3,8 +3,8 @@
     "capabilities": [
         ""
     ],
-    "companyName": "mekva@outlook.com",
-    "longName": "TJ Time JS",
+    "companyName": "MK APPS",
+    "longName": "TJHSST Schedule Viewer",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -28,16 +28,21 @@
                 "file": "fonts/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
+            },
+            {
+                "file": "images/tjTimeBack.png",
+                "name": "IMAGES_TJTIMEBACK_PNG",
+                "type": "png"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "TJ Time JS",
-    "uuid": "2fa04926-eb4b-48ab-9856-4294617c4d8b",
+    "shortName": "TJ Schedule",
+    "uuid": "e2309b67-47dd-474a-8aec-57290ff2195b",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "0.3",
     "watchapp": {
-        "hiddenApp": true,
+        "hiddenApp": false,
         "watchface": true
     }
 }
